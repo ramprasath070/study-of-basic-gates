@@ -1,3 +1,4 @@
+
 ### study-of-basic-gates
 
 **AIM:** 
@@ -66,6 +67,10 @@ Y= A⊕B
 
 
 
+![Screenshot 2024-11-29 183433](https://github.com/user-attachments/assets/799d6830-a4e0-4ff9-9c19-7f92e1931f4c)
+
+
+
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
@@ -79,9 +84,13 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL realization Output:** 
 
 
+![image](https://github.com/user-attachments/assets/fff8dce8-334e-4d62-87ff-2f133b457d6b)
+
 
 **RTL**
 
+
+![Screenshot 2024-11-29 183340](https://github.com/user-attachments/assets/383401df-0286-4d03-9fbf-c0fd36159f5a)
 
 
 
